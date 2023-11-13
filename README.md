@@ -44,16 +44,4 @@ To use these containers and algorithms in your C++ project, include the necessar
 
 Contributions are welcome! Feel free to fork the repository, make your enhancements, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the C++ Standard Template Library (STL) for providing these powerful and versatile containers and algorithms.
-
-## Contact
-
-For any questions or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
 Happy coding with C++ containers!
